@@ -70,7 +70,7 @@ struct CardView: View {
             }
           }
           
-          Text("Fun and enjoyable outdoor activity for friends and families.")
+          Text("Fun and enjoyable outdoor activity for friends and families for anupam.")
             .multilineTextAlignment(.leading)
             .italic()
             .foregroundColor(.customGrayMedium)
